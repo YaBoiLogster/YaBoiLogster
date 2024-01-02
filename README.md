@@ -1,5 +1,9 @@
 ### Hi there 👋
+I am a student currently enrolled in CNA's Enterprise Web Development program.
 
+I am proficient in Python, HTML, CSS, Javascript & PHP, as well as various frameworks.
+
+In my free time, I enjoy reading, hiking & playing videogames.
 <!--
 **YaBoiLogster/YaBoiLogster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
