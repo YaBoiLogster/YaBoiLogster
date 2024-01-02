@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a student currently enrolled in CNA's Enterprise Web Development program.
 
-I am proficient in Python, HTML, CSS, Javascript & PHP, as well as various frameworks.
+I'm proficient in Python, HTML, CSS, Javascript & PHP, as well as various frameworks. I am also working on my skills in SQL, modifying and managing databases.
 
 In my free time, I enjoy reading, hiking & playing videogames.
 <!--
